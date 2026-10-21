@@ -8,6 +8,8 @@ The numbers are 3 digits numbers, with the dictionary keys being the names assoc
 
 ### Used
 - Dictionaries
+### Links
+Short demo on YouTube - https://youtube.com/shorts/hKjAMxMYSMc?si=AB8mg-MSen3dLfId
 
 ## Student Score Exercise
 A simple program that generates a class of students with varying academic strength which affects their generated scores for each subject. The students and their scores are stored in a dictionary.
@@ -21,3 +23,5 @@ I also made a statistics function that displays the highest, lowest and mean sco
 - Random module for score and student generation.
 ### Links
 Short demo on YouTube - https://youtube.com/shorts/blQn6zR290s?si=EIA39Miyo3lr0jPq
+
+## Conclusion 
