@@ -25,3 +25,5 @@ I also made a statistics function that displays the highest, lowest and mean sco
 Short demo on YouTube - https://youtube.com/shorts/blQn6zR290s?si=EIA39Miyo3lr0jPq
 
 ## Conclusion 
+Practised more on using dictionaries, tuples, lists and sets as well as the rich and random module. Had fun building the Student Score Exercise program.
+Ran on - Pydroid 3
