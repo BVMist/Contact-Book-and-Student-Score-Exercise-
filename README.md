@@ -1,5 +1,5 @@
 # Contact-Book-and-Student-Score-Exercise-
-
+## Contact Book
 ## Student Score Exercise
 A simple program that generates a class of students with varying academic strength which affects their generated scores for each subject. The students and their scores are stored in a dictionary.
 
