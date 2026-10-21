@@ -10,3 +10,5 @@ I also made a statistics function that displays the highest, lowest and mean sco
 - Dictionaries, tuple and lists.
 - Rich module for color coding scores and better presentation.
 - Random module for score and student generation.
+### Links
+Short demo on YouTube - https://youtube.com/shorts/blQn6zR290s?si=EIA39Miyo3lr0jPq
