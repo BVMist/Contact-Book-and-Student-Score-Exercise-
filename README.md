@@ -1,5 +1,14 @@
 # Contact-Book-and-Student-Score-Exercise-
+Practicing using dictionaries, tuples, Sets and lists. Made two programs that utilize at least 3 of the aforementioned.
 ## Contact Book
+A simple program that stores contact numbers and the names attached in a dictionary. It allows for adding, deleting and retrieving contacts from the dictionary that stores them. It uses a command line interface.
+
+### About
+The numbers are 3 digits numbers, with the dictionary keys being the names associated with the number and the values being the numbers. The CLI menu allows you to add, delete, view and find contacts.
+
+### Used
+- Dictionaries
+
 ## Student Score Exercise
 A simple program that generates a class of students with varying academic strength which affects their generated scores for each subject. The students and their scores are stored in a dictionary.
 
